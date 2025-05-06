@@ -39,6 +39,13 @@
 - 🧠 Desenvolver pensamento lógico e analítico para aplicar em projetos interdisciplinares envolvendo **programação, exatas e engenharia**.
 - 🚀 Contribuir com projetos open source e colaborar em iniciativas educacionais que envolvam tecnologia e ciência.
 
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Renanmendes09}/count.svg" /></p> 
+<br></div>
+
+
 ---
 
 ### 📈 Estatísticas GitHub
