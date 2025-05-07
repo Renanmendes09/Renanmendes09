@@ -15,7 +15,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, com foco em inteligencia artificial ( I.A ). Tenho experiência com projetos em HTML, CSS, Python e uso diário do Linux e Git.
 
-### linguagens de programação usadas.
+### Habilidades.
 <img 
     align="left" 
     alt="HTML"
