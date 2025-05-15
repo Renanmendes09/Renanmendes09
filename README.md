@@ -55,6 +55,14 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em inteligencia artific
   style="padding-right: 15px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
+<img  
+  align="left" 
+  alt="Windows" 
+  title="Windows"
+  width="35px"
+  style="padding-right: 15px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
+/>
 <br/>
 <br/>
 
