@@ -32,6 +32,14 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em inteligencia artific
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+<img  
+  align="left" 
+  alt="JavaScript" 
+  title="JavaScript"
+  width="35px"
+  style="padding-right: 15px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 <img 
     align="left" 
     alt="Python" 
@@ -39,7 +47,17 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em inteligencia artific
     width="35px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/> <img 
+/>
+
+<img  
+  align="left" 
+  alt="Java" 
+  title="Java"
+  width="35px"
+  style="padding-right: 15px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
     align="left" 
     alt="Github" 
     title="Github"
@@ -63,6 +81,9 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em inteligencia artific
   style="padding-right: 15px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
 />
+
+
+
 <br/>
 <br/>
 
@@ -82,6 +103,17 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em inteligencia artific
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count.</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Renanmendes09}/count.svg" /></p> 
-<br></div>
+  <p style="font-size: 20px; font-weight: bold; color: #15e5a6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    👁️‍🗨️ Visualizações do Perfil
+  </p>
+  
+  <a href="https://github.com/Renanmendes09">
+    <img 
+      src="https://komarev.com/ghpvc/?username=Renanmendes09&label=VISITANTES&color=07e9a5&style=flat-square&labelColor=0d1117" 
+      alt="Contador de visualizações do perfil" 
+      style="border-radius: 8px; box-shadow: 0 0 15px #07e9a5; transition: 0.3s;"
+      onmouseover="this.style.boxShadow='0 0 25px #15e5a6'"
+      onmouseout="this.style.boxShadow='0 0 15px #07e9a5'"
+    />
+  </a>
+</div>
